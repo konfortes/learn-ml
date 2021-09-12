@@ -1,0 +1,4 @@
+black==21.7b0
+nltk==3.6.2
+numpy==1.21.2
+torch==1.9.0
